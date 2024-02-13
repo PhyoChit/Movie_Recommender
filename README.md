@@ -10,7 +10,7 @@ The Movie Recommender System leverages advanced machine learning techniques to s
 - Scalable architecture
 
 ## Demo
-![Movie Recommender System Demo](path/to/demo_image.jpg)
+![Movie Recommender System Demo](movie_recommender_demo.jpg)
 *Demo of the Movie Recommender System in action.*
 
 ## Technical Architecture
@@ -18,10 +18,4 @@ The Movie Recommender System leverages advanced machine learning techniques to s
 - **Machine Learning Model**: `similarity.pkl` for similarity computation
 - **Web Application**: Streamlit interface
 
-## Installation
-Ensure Python 3.6+ and pip are installed.
 
-### Clone the Repository
-```bash
-git clone <repository-url>
-cd movie-recommender-system
